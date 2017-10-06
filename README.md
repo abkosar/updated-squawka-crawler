@@ -17,9 +17,9 @@ In ubuntu/elementary Linux:
 
 4.go to the directory where the files have been downloaded:
 
-  4.1 Execute the file squwaka1.py using $python3 squwaka1.py.
+  4.1 Execute the file PlayerCrawler(step 1).py using $python3 PlayerCrawler(step 1).py
   
-  4.2 After the above execution is completed execute squwaka2.py using $python3 squwaka2.py.
+  4.2 After the above execution is completed execute StatsCrawler(step 2).py using $python3 StatsCrawler(step 2).py
   
 #HOLLA you have now the stats of all famous players playing in European Leagues.
 

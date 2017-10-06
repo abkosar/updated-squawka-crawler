@@ -95,9 +95,6 @@ team_list=["Real Madrid",
 
 
 
- (1st)	Faroe Islands  (1st)	Gibraltar  (1st)	Kosovo  (1st)
-Estonia  (1st)	Malta  (1st)	Andorra  (1st)
-Armenia  (1st)	Wales  (1st)	San Marino  (1st)
 
 
 

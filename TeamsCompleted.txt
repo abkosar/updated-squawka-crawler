@@ -1,33 +1,78 @@
-Manchester United
-Manchester City
-Arsenal
-Tottenham Hotspur
-Chelsea
-Liverpool
 Real Madrid
 Barcelona
-West Ham United
-Ajax
-PSV
-Feyenoord
+Atletico Madrid
+Bayern Munich
+RB Leipzig
 Borussia Dortmund
-Borussia Monchengladbach
-FC Bayern Munchen
-VfL Wolfsburg
-Bayer 04 Leverkusen
-FC Schalke 04
-Atletico de Madrid
-Sevilla
-Valencia CF
-Lyon
-Marseille
-St Etienne
-Paris Saint Germain
-Monaco
+Chelsea
+Tottenham Hotspur
+Manchester City
 Juventus
 Roma
-Lazio
+Benfica
+Porto
+Monaco
+Paris Saint-Germain
+Spartak Moscow
+Shaktar Donetsk
+Anderlecht
+Feyenord
+Besiktas
+Manchester United
+Sevilla
+Liverpool
+Sporting CP
+1899 Hoffenheim
 Napoli
-Fiorentina
-Milan
-Internazionale
+Slavia Prague
+Olympiacos
+Viitorul Constanța
+Nice
+CSKA Moscow
+Dynamo Kyiv
+Club Brugge
+Ajax
+Istanbul Basaksehir
+Young Boys
+Viktoria Plzen
+AEK Athens
+Steaua Bucuresti
+Red Bull Salzburg
+Copenhagen
+Honvéd
+Dundalk
+Rijeka
+Celtic
+Sheriff Tiraspol
+Spartaks Jūrmala
+Legia Warsaw
+Qarabag
+FH
+F91 Dudelange
+APOEL
+Partizan
+Samtredia
+Budućnost Podgorica
+BATE Borisov
+Astana
+IFK Mariehamn
+Žalgiris Vilnius
+Malmö FF
+Ludogorets Razgrad
+Zrinjski Mostar
+Rosenborg
+Maribor
+Kukësi
+Hapoel Beer Sheva
+Žilina
+Vardar
+Linfield
+Víkingur Gøta
+Europa FC
+Trepça89
+FCI Tallinn
+Hibernians
+FC Santa Coloma
+Alashkert
+The New Saints
+La Fiorita

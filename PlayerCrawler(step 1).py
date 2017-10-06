@@ -10,9 +10,97 @@ prog_start=time.time()
 checklist_file=open("TeamsCompleted.txt","r+")
 checklist=checklist_file.readlines()
 num_teams_checked=len(checklist)
-checklist.extend(["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""])
+checklist.extend(["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",
+				  "","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",
+				  "","","","","","","","","",""])
 
-team_list=["Manchester United","Manchester City","Arsenal","Tottenham Hotspur","Chelsea","Liverpool","Real Madrid","Barcelona","West Ham United","Ajax","PSV","Feyenoord","Borussia Dortmund","Borussia Monchengladbach","FC Bayern Munchen","VfL Wolfsburg","Bayer 04 Leverkusen","FC Schalke 04","Atletico de Madrid","Sevilla","Valencia CF","Lyon","Marseille","St Etienne","Paris Saint Germain","Monaco","Juventus","Roma","Lazio","Napoli","Fiorentina","Milan","Internazionale"]
+team_list=["Real Madrid",
+		   "Barcelona",
+		   "Atletico Madrid",
+		   "Bayern Munich",
+		   "RB Leipzig",
+		   "Borussia Dortmund",
+		   "Chelsea",
+		   "Tottenham Hotspur",
+		   "Manchester City",
+		   "Juventus",
+		   "Roma",
+		   "Benfica",
+		   "Porto",
+		   "Monaco",
+		   "Paris Saint-Germain",
+		   "Spartak Moscow",
+		   "Shaktar Donetsk",
+		   "Anderlecht",
+		   "Feyenord",
+		   "Besiktas",
+		   "Manchester United",
+		   "Sevilla",
+		   "Liverpool",
+		   "Sporting CP",
+		   "1899 Hoffenheim",
+		   "Napoli",
+		   "Slavia Prague",
+		   'Olympiacos',
+		   "Viitorul Constanța",
+		   "Nice",
+		   "CSKA Moscow",
+		   "Dynamo Kyiv",
+		   "Club Brugge",
+		   "Ajax",
+		   "Istanbul Basaksehir",
+		   "Young Boys",
+		   "Viktoria Plzen",
+		   "AEK Athens",
+		   "Steaua Bucuresti",
+		   "Red Bull Salzburg",
+		   "Copenhagen",
+		   "Honvéd",
+		   "Dundalk",
+		   "Rijeka",
+		   "Celtic",
+		   "Sheriff Tiraspol",
+		   "Spartaks Jūrmala",
+		   "Legia Warsaw",
+		   "Qarabag",
+		   "FH",
+		   "F91 Dudelange",
+		   "APOEL",
+		   "Partizan",
+		   "Samtredia",
+		   "Budućnost Podgorica",
+		   "BATE Borisov",
+		   "Astana",
+		   "IFK Mariehamn",
+		   "Žalgiris Vilnius",
+		   "Malmö FF",
+		   "Ludogorets Razgrad",
+		   "Zrinjski Mostar",
+		   "Rosenborg",
+		   "Maribor",
+		   "Kukësi",
+		   "Hapoel Be'er Sheva",
+		   "Žilina",
+		   "Vardar",
+		   "Linfield",
+		   "Víkingur Gøta",
+		   "Europa FC",
+		   "Trepça'89",
+		   "FCI Tallinn",
+		   "Hibernians",
+		   "FC Santa Coloma",
+		   "Alashkert",
+		   "The New Saints",
+		   "La Fiorita"]
+
+
+
+ (1st)	Faroe Islands  (1st)	Gibraltar  (1st)	Kosovo  (1st)
+Estonia  (1st)	Malta  (1st)	Andorra  (1st)
+Armenia  (1st)	Wales  (1st)	San Marino  (1st)
+
+
+
 def crawl(url):
 	while True:
 		try:
